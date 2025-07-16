@@ -1,16 +1,3 @@
-# IMAGE-CLASSIFICATION-MODEL
-
-**Company:** Codtech It Solutions
-
-**Name:** Lalit Kumar
-
-**Intern Id:** CT4MWZ33
-
-**Domain:** Machine Learning
-
-**Duration:** 16 Weeeks
-
-**Mentor:** Neela Santhosh Kumar
 # 🖼️ Image Classification with CNN on CIFAR-10 Dataset
 
 This project implements an image classification pipeline using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset. It also includes a Streamlit-based web app where users can upload their own image and see the model's prediction in real-time.
